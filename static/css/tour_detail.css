@@ -83,7 +83,8 @@
 }
 
 .booking-modal-card {
-    background: #FFFFFF;
+    /* background: #FFFFFF; */
+    background: #FAF6EE;
     border-radius: 22px;
     padding: 22px 18px 18px;
     max-width: 360px;
